@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flydnv&label=Profile%20views&color=0e75b6&style=flat" alt="flydnv" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **PhP**
 
-- 💬 Ask me about **CSS, Bootstrap and PhP**
+- 💬 Ask me about **CSS, Bootstrap and JavaScript**
 
 - 📫 How to reach me **fleydanoff@gmail.com**
 

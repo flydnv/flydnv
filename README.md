@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flydnv&label=Profile%20views&color=0e75b6&style=flat" alt="flydnv" /> </p>
 
-- 🌱 I’m currently learning **MySQL**
-
-- 💬 Ask me about **CSS, Bootstrap and JavaScript**
+- 💬 Ask me about **PHP, Laravel and JavaScript**
 
 - 📫 How to reach me **fleydanoff@gmail.com**
 

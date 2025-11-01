@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/s%c9%99xav%c9%99t-fileydanov-400448232/](https://www.linkedin.com/in/sakhavat-fleydanov-400448232/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/s%c9%99xav%c9%99t-fileydanov-400448232/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sakhavat-fleydanov-400448232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/s%c9%99xav%c9%99t-fileydanov-400448232/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/flydnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fleydanoff" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/sexavetfv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/sexavetfv" height="30" width="40" /></a>
 </p>
